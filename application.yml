@@ -4,3 +4,6 @@ eureka:
     register-with-eureka: true
   instance:
     hostname: localhost
+    
+ department:
+   url: saveDepartment
